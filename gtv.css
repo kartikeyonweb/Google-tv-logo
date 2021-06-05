@@ -1,0 +1,49 @@
+*{
+box-sizing: border-box;
+
+}
+h3{
+color: white;}
+h3 {
+   font-family: 'Roboto', sans-serif;
+   text-align: Center;
+}
+body{
+	background:  black;
+	/*display: flex;*/
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.googletv{
+	width:150px;
+	height: 100px;
+	background: black;
+	border-left:  20px solid #32CD32 ;
+	border-right:  17px solid #e24f43;
+	border-top:17px solid #0C52F8 ;
+	border-bottom:17px solid #fdcd3b ;
+	border-radius: 100;
+    	position: relative;
+	overflow: hidden;
+  
+
+}
+
+div
+{
+border-top-right-radius: 20px;
+}
+div
+{
+border-bottom-right-radius: 20px;
+}
+div
+{
+border-bottom-left-radius: 20px;
+}
+div
+{
+border-top-left-radius: 20px;
+}
